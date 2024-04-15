@@ -1,6 +1,6 @@
 # MinimalBlogCard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+This project was generated with Angular CLI version 17.2.1. I had done the styling layout using Tailwind CSS. I had wriiten the code everything on HTML File, for praticing Angular framework. I attached the live website at the description of this repository. I have attached the screenshots in this repository.
 
 # Development server
 
