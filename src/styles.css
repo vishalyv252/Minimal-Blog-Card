@@ -1,0 +1,7 @@
+/* I imported the Sora font from Google fonts. I have attached the font family classes in tailwind.config.js file, so please check it out. */
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+/* I added the Tailwind directives in this CSS file. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
