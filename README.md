@@ -10,11 +10,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 1). Desktop Design:
 
-
+![Desktop-Design](https://github.com/vishalyv252/Minimal-Blog-Card/assets/105093020/01b7c5b2-6a18-4a41-9ced-5fb00004ec1a)
 
 2). Mobile Design:
 
-
+![Mobile-Design](https://github.com/vishalyv252/Minimal-Blog-Card/assets/105093020/403eb57b-16f8-4113-91dd-9a2a93485ac8)
 
 # Further help
 
